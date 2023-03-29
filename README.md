@@ -1,0 +1,1 @@
+This repository contains the code for the personal website of Benjamin Bowman (me), which contains updates on my scholarly research and publications.  The site is based on [Jekyll.](https://jekyllrb.com/)  The website can be viewed at [https://bbowman223.github.io/](https://bbowman223.github.io/)

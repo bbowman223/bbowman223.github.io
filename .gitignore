@@ -1,0 +1,7 @@
+.bundle
+.jekyll-cache
+main.rb
+Gemfile
+Gemfile.lock
+.replit
+replit.nix
