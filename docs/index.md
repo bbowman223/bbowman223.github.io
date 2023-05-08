@@ -22,6 +22,8 @@ Some of my research interests:
 Before [UCLA](https://ww3.math.ucla.edu/) I studied computational mathematics at [Penn State](https://science.psu.edu/math).  Outside of work I enjoy coffee, cooking, and cocktails.
 
 # News
+04/2023 We posted a new preprint [*SAFE: Machine Unlearning With Shard Graphs*](https://arxiv.org/abs/2304.13169)
+
 02/2023 Our paper [*À-la-carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting*](https://arxiv.org/abs/2302.07994) was accepted to [CVPR 2023](https://cvpr2023.thecvf.com/)
 
 01/2023 Our paper [*Characterizing the Spectrum of the NTK via a Power Series Expansion*](https://arxiv.org/abs/2211.07844) was accepted to [ICLR 2023](https://iclr.cc/)

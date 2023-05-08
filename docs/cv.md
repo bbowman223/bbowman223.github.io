@@ -12,6 +12,10 @@ order: 2
 **B.S. Computational Mathematics** Penn State (08/2014-05/2018)<br>
 
 **Publications:**<br>
+*SAFE: Machine Unlearning With Shard Graphs*<br>
+Yonatan Dukler, Benjamin Bowman, Alessandro Achille, Aditya Golatkar, Ashwin Swaminathan, Stefano Soatto.
+Preprint: [arXiv:2304.13169](https://arxiv.org/abs/2304.13169)
+
 *À-la-carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting*<br>
 Benjamin Bowman, Alessandro Achille, Luca Zancato, Matthew Trager, Pramuditha Perera, Giovanni Paolini, Stefano Soatto.  Accepted to [The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023).](https://cvpr2023.thecvf.com/)  Preprint: [arXiv:2302.07994](https://arxiv.org/abs/2302.07994)
 
