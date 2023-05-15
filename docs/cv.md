@@ -13,7 +13,7 @@ order: 2
 
 **Publications:**<br>
 *SAFE: Machine Unlearning With Shard Graphs*<br>
-Yonatan Dukler, Benjamin Bowman, Alessandro Achille, Aditya Golatkar, Ashwin Swaminathan, Stefano Soatto.
+Yonatan Dukler\*, Benjamin Bowman\*, Alessandro Achille\*, Aditya Golatkar, Ashwin Swaminathan, Stefano Soatto (\*Equal contribution).
 Preprint: [arXiv:2304.13169](https://arxiv.org/abs/2304.13169)
 
 *À-la-carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting*<br>
