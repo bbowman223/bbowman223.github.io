@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Poems and Aphorisms
-order: 4
+order: 5
 ---
 It is not without emotion that one acts in strength<br>
 The tallest trees bend in the wind, but they do not break

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: For Students
-order: 3
+order: 4
 ---
 
 Always remember that math and programming are hard the same way weightlifting is hard: it is hard for everyone who does it, *especially* when you are doing it right.  Just like in weightlifting, to grow you must push yourself to the point of failure.  Struggling is not a sign of lack of ability; it is a sign that you are going through the normal and healthy process that everyone goes through.  Deciding you are not a "math person" or "programming person" after struggling is like deciding you cannot be good at weightlifting because you experienced the weight feeling heavy.
