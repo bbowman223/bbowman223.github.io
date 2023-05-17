@@ -8,7 +8,7 @@ Yonatan Dukler\*, Benjamin Bowman\*, Alessandro Achille\*, Aditya Golatkar, Ashw
 Preprint: [arXiv:2304.13169](https://arxiv.org/abs/2304.13169)
 
 *À-la-carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting*<br>
-Benjamin Bowman, Alessandro Achille, Luca Zancato, Matthew Trager, Pramuditha Perera, Giovanni Paolini, Stefano Soatto.  Accepted to [The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023).](https://cvpr2023.thecvf.com/)  Preprint: [arXiv:2302.07994](https://arxiv.org/abs/2302.07994)
+Benjamin Bowman, Alessandro Achille, Luca Zancato, Matthew Trager, Pramuditha Perera, Giovanni Paolini, Stefano Soatto.  Accepted to [The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023).](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)  Preprint: [arXiv:2302.07994](https://arxiv.org/abs/2302.07994)
 
 *Characterizing the Spectrum of the NTK via a Power Series Expansion*<br>
 Michael Murray\*, Hui Jin\*, Benjamin Bowman\*, Guido Montúfar (\*Equal contribution). 
