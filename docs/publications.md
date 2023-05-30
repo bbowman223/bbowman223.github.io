@@ -18,7 +18,7 @@ Michael Murray\*, Hui Jin\*, Benjamin Bowman\*, Guido Montúfar (\*Equal contrib
 Preprint: [arXiv:2211.07844](https://arxiv.org/abs/2211.07844)
 
 *Spectral Bias Outside the Training Set for Deep Networks in the Kernel Regime*<br>
-Benjamin Bowman and Guido Montúfar.  [2022 Conference on Neural Information Processing Systems (NeurIPS 2022).](https://openreview.net/forum?id=a01PL2gb7W5) Preprint: [arXiv:2206.02927](https://arxiv.org/abs/2206.02927)
+Benjamin Bowman and Guido Montúfar.  [2022 Conference on Neural Information Processing Systems (NeurIPS 2022).](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c4006ff54a7bbda74c09bad6f7586f5b-Abstract-Conference.html) Preprint: [arXiv:2206.02927](https://arxiv.org/abs/2206.02927)
 
 *Implicit Bias of MSE Gradient Optimization in Underparameterized Neural Networks*<br>
 Benjamin Bowman and Guido Montúfar. [The Tenth International Conference on Learning Representations (ICLR 2022).](https://openreview.net/forum?id=VLgmhQDVBV) Preprint: [arXiv:2201.04738](https://arxiv.org/abs/2201.04738)

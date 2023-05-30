@@ -9,7 +9,7 @@ layout: default
 
 # About
 
-I am a fifth year applied mathematics Ph.D. student at [UCLA](https://ww3.math.ucla.edu/) working under the supervision of [Guido Montúfar](https://www.math.ucla.edu/~montufar/).  In the past I studied primarily the training/optimization process of neural networks, seeking to understand how the parameterization and algorithm influence the properties of the network throughout time and at convergence. Currently, I focus more on developing scalable machine learning methods that respect individual's data usage and privacy rights.
+I earned my Ph.D. in applied mathematics at [UCLA](https://ww3.math.ucla.edu/) working under the supervision of [Guido Montúfar](https://www.math.ucla.edu/~montufar/).  In the past I studied primarily the training/optimization process of neural networks, seeking to understand how the parameterization and algorithm influence the properties of the network throughout time and at convergence. Currently, I focus more on developing scalable machine learning methods that respect individual's data usage and privacy rights.
 
 Some of my research interests:
 * Machine unlearning
@@ -22,13 +22,15 @@ Some of my research interests:
 Before [UCLA](https://ww3.math.ucla.edu/) I studied computational mathematics at [Penn State](https://science.psu.edu/math).  Outside of work I enjoy coffee, cooking, and cocktails.
 
 # News
+06/2023 My [thesis](https://escholarship.org/uc/item/0p62k7nd) was accepted and I have earned my Ph.D. in mathematics
+
 04/2023 We posted a new preprint [*SAFE: Machine Unlearning With Shard Graphs*](https://arxiv.org/abs/2304.13169)
 
 02/2023 Our paper [*À-la-carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting*](https://arxiv.org/abs/2302.07994) was accepted to [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Bowman_A-La-Carte_Prompt_Tuning_APT_Combining_Distinct_Data_via_Composable_Prompting_CVPR_2023_paper.html)
 
 01/2023 Our paper [*Characterizing the Spectrum of the NTK via a Power Series Expansion*](https://arxiv.org/abs/2211.07844) was accepted to [ICLR 2023](https://iclr.cc/)
 
-06/2022 Our paper [*Spectral Bias Outside the Training Set for Deep Networks in the Kernel Regime*](https://arxiv.org/abs/2206.02927) was accepted to [NeurIPS 2022](https://nips.cc/) 
+06/2022 Our paper [*Spectral Bias Outside the Training Set for Deep Networks in the Kernel Regime*](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c4006ff54a7bbda74c09bad6f7586f5b-Abstract-Conference.html) was accepted to [NeurIPS 2022](https://nips.cc/)
 
 06/2022 This summer I will be an Applied Scientist Intern at [Amazon](https://www.amazon.science/) (AWS)
 
