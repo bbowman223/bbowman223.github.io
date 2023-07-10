@@ -5,6 +5,7 @@ order: 2
 ---
 
 ### Research
+**Applied Scientist** AWS AI Labs (07/2023 - Current)<br>
 **Ph.D., Applied Mathematics** UCLA (08/2018 - 06/2023)<br>
 **Applied Scientist Intern** Amazon AI (06/2022 - 03/2023)<br>
 **Visiting Researcher** Max Planck Institute for Mathematics in the Sciences (06/2021-09/2021)<br>
