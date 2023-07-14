@@ -30,11 +30,11 @@ Classically, machine learning has focused on training on a monolithic dataset.  
 
 
 # News
+07/2023 Our paper [*SAFE: Machine Unlearning With Shard Graphs*](https://arxiv.org/abs/2304.13169) was accepted to [ICCV 2023](https://iccv2023.thecvf.com/)
+
 07/2023 I have started work as an Applied Scientist at [AWS AI Labs](https://www.amazon.science/)
 
 06/2023 My [thesis](https://escholarship.org/uc/item/0p62k7nd) was accepted and I have earned my Ph.D. in mathematics
-
-04/2023 We posted a new preprint [*SAFE: Machine Unlearning With Shard Graphs*](https://arxiv.org/abs/2304.13169)
 
 02/2023 Our paper [*À-la-carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting*](https://arxiv.org/abs/2302.07994) was accepted to [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Bowman_A-La-Carte_Prompt_Tuning_APT_Combining_Distinct_Data_via_Composable_Prompting_CVPR_2023_paper.html)
 
