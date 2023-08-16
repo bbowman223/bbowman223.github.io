@@ -14,10 +14,9 @@ I am an Applied Scientist at [AWS AI Labs](https://www.amazon.science/) working 
 Some of my research interests:
 * Machine unlearning
 * Data privacy
-* Prompt tuning
+* Compute and parameter efficient adaption of large models
 * Implicit bias/regularization of gradient descent
 * Neural Tangent Kernel (NTK)
-* Information-theoretic approaches to generalization
 
 Before [UCLA](https://ww3.math.ucla.edu/) I studied computational mathematics at [Penn State](https://science.psu.edu/math).  Outside of work I enjoy coffee, cooking, and cocktails.
 
