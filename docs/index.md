@@ -14,7 +14,7 @@ I am an Applied Scientist at [AWS AI Labs](https://www.amazon.science/) working 
 Some of my research interests:
 * Machine unlearning
 * Data privacy
-* Compute and parameter efficient adaption of large models
+* Compute and parameter efficient adaptation of large models
 * Implicit bias/regularization of gradient descent
 * Neural Tangent Kernel (NTK)
 
@@ -22,7 +22,7 @@ Before [UCLA](https://ww3.math.ucla.edu/) I studied computational mathematics at
 
 
 # À-la-carte Learning
-Classically, machine learning has focused on training on a monolithic dataset.  However, for deployed models training on a monolithic dataset is problematic.  As new data become available (continual learning), finetuning can be prohibitively expensive or lead to poor performance (catastrophic forgetting).  Furthermore, users can change their sharing preferences at any time, leading to datasets that shrink over time (machine unlearning) or different subsets of the data being usable by different users (compartmentalization).  To address these challenges, in our [CVPR 2023 paper](https://openaccess.thecvf.com/content/CVPR2023/html/Bowman_A-La-Carte_Prompt_Tuning_APT_Combining_Distinct_Data_via_Composable_Prompting_CVPR_2023_paper.html) we introduce the *À-la-carte Learning Problem*.  The mandate of *À-la-carte Learning* is to construct bespoke machine learning models specific to each user's data access rights and preferences.  Through our method (APT), we demonstrate that we can assemble models by combining learned prompts trained on compartmentalized data sources to achieve performance competitive with monolithic training, with further benefits for privacy, model securitization, and model customization.  For the continual learning benchmarks Split-CIFAR100 and CORe50, we achieve state-of-the-art performance.  For more information, see the video below or drop by our poster in-person in Vancouver (WED-PM-251)
+Classically, machine learning has focused on training on a monolithic dataset.  However, for deployed models training on a monolithic dataset is problematic.  As new data become available (continual learning), finetuning can be prohibitively expensive or lead to poor performance (catastrophic forgetting).  Furthermore, users can change their sharing preferences at any time, leading to datasets that shrink over time (machine unlearning) or different subsets of the data being usable by different users (compartmentalization).  To address these challenges, in our [CVPR 2023 paper](https://openaccess.thecvf.com/content/CVPR2023/html/Bowman_A-La-Carte_Prompt_Tuning_APT_Combining_Distinct_Data_via_Composable_Prompting_CVPR_2023_paper.html) we introduce the *À-la-carte Learning Problem*.  The mandate of *À-la-carte Learning* is to construct bespoke machine learning models specific to each user's data access rights and preferences.  Through our method (APT), we demonstrate that we can assemble models by combining learned prompts trained on compartmentalized data sources to achieve performance competitive with monolithic training, with further benefits for privacy, model securitization, and model customization.  For the continual learning benchmarks Split-CIFAR100 and CORe50, we achieve state-of-the-art performance.  For more information, see the video below.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FQ8s-0HDtTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
