@@ -29,7 +29,9 @@ Classically, machine learning has focused on training on a monolithic dataset.  
 
 
 # News
-07/2023 Our paper [*SAFE: Machine Unlearning With Shard Graphs*](https://arxiv.org/abs/2304.13169) was accepted to [ICCV 2023](https://iccv2023.thecvf.com/)
+09/2023 Our paper [*Your representations are in the network: composable and parallel adaptation for large scale models*](https://openreview.net/forum?id=Ydxnan4P2G) was accepted to [NeurIPS 2023](https://neurips.cc/Conferences/2023)
+
+07/2023 Our paper [*SAFE: Machine Unlearning With Shard Graphs*](https://arxiv.org/abs/2304.13169) was accepted to [ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Dukler_SAFE_Machine_Unlearning_With_Shard_Graphs_ICCV_2023_paper.html)
 
 07/2023 I have started work as an Applied Scientist at [AWS AI Labs](https://www.amazon.science/)
 
