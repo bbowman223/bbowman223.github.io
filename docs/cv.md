@@ -15,7 +15,7 @@ order: 2
 **Publications:**<br>
 *SAFE: Machine Unlearning With Shard Graphs*<br>
 Yonatan Dukler\*, Benjamin Bowman\*, Alessandro Achille\*, Aditya Golatkar, Ashwin Swaminathan, Stefano Soatto (\*Equal contribution). 
-[Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV).](https://openaccess.thecvf.com/content/ICCV2023/html/Dukler_SAFE_Machine_Unlearning_With_Shard_Graphs_ICCV_2023_paper.html)
+[The IEEE/CVF International Conference on Computer Vision (ICCV 2023).](https://openaccess.thecvf.com/content/ICCV2023/html/Dukler_SAFE_Machine_Unlearning_With_Shard_Graphs_ICCV_2023_paper.html)
 Preprint: [arXiv:2304.13169.](https://arxiv.org/abs/2304.13169)
 
 *À-la-carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting*<br>
