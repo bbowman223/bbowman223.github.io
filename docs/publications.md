@@ -4,7 +4,8 @@ title: Publications
 order: 1
 ---
 *Your representations are in the network: composable and parallel adaptation for large scale models*<br>
-Yonatan Dukler, Alessandro Achille, Hao Yang, Varsha Vivek, Luca Zancato, Benjamin Bowman, Avinash Ravichandran, Charless Fowlkes, Ashwin Swaminathan, Stefano Soatto.
+Yonatan Dukler, Alessandro Achille, Hao Yang, Benjamin Bowman, Varsha Vivek,
+Luca Zancato, Avinash Ravichandran, Charless Fowlkes, Ashwin Swaminathan, Stefano Soatto.
 [Accepted to NeurIPS 2023.](https://neurips.cc/virtual/2023/poster/71283)  Preprint: [arXiv:2303.04105](https://arxiv.org/abs/2303.04105)
 
 *SAFE: Machine Unlearning With Shard Graphs*<br>
