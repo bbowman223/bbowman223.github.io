@@ -13,6 +13,10 @@ order: 2
 **B.S. Computational Mathematics** Penn State (08/2014-05/2018)<br>
 
 **Publications:**<br>
+*Your representations are in the network: composable and parallel adaptation for large scale models*<br>
+Yonatan Dukler, Alessandro Achille, Hao Yang, Varsha Vivek, Luca Zancato, Benjamin Bowman, Avinash Ravichandran, Charless Fowlkes, Ashwin Swaminathan, Stefano Soatto.
+[Accepted to NeurIPS 2023.](https://neurips.cc/virtual/2023/poster/71283)  Preprint: [arXiv:2303.04105](https://arxiv.org/abs/2303.04105)
+
 *SAFE: Machine Unlearning With Shard Graphs*<br>
 Yonatan Dukler\*, Benjamin Bowman\*, Alessandro Achille\*, Aditya Golatkar, Ashwin Swaminathan, Stefano Soatto (\*Equal contribution). 
 [The IEEE/CVF International Conference on Computer Vision (ICCV 2023).](https://openaccess.thecvf.com/content/ICCV2023/html/Dukler_SAFE_Machine_Unlearning_With_Shard_Graphs_ICCV_2023_paper.html)
